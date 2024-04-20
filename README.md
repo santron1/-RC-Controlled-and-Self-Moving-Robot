@@ -53,6 +53,3 @@ In conclusion, the RC Controlled and Self-Moving Robot project exemplifies my co
 https://github.com/santron1/-RC-Controlled-and-Self-Moving-Robot/assets/167627757/0f7a1759-f219-41ba-b0ad-6515e18714d4
 
 
-
-https://github.com/santron1/-RC-Controlled-and-Self-Moving-Robot/assets/167627757/908982b3-a3d3-4d2f-846d-248c3104752a
-
